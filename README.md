@@ -2,7 +2,7 @@
 ### Тестовое задание
 
 **Задача**: отобразить на карте геолокацию и выгрузить к ней с сервера точки и линии согласно заданным координатам.  
-**Используемые технологии**: Swift, Storyboard, UIKit, MVC, URLSession, Callbacks, GoogleMaps, CocoaPods  
+**Стэк**: Swift, Storyboard, UIKit, MVC, URLSession, Callbacks, GoogleMaps, CocoaPods  
 
 **Результ**:
 - Проект создан с применением архитектурного паттерна MVC 
@@ -14,7 +14,7 @@
 ### Test task
 
 **Task**: display the user's geolocation on the map and then upload points and lines from the server according to the specified coordinates.
-**Technologies Used**: Swift, Storyboard, UIKit, MVC, URLSession, Callbacks, GoogleMaps, CocoaPods.
+**Stack**: Swift, Storyboard, UIKit, MVC, URLSession, Callbacks, GoogleMaps, CocoaPods.
 
 **Result**:
 - Сreated with the MVC pattern
